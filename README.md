@@ -1,4 +1,4 @@
-# Guía VuePress deploying in Github Pages
+# Guía VuePress deploying in GitHub Pages
 
 Esta es mi guía de como publicar nuestra documentación generada con [VuePress](https://vuepress.vuejs.org/) en [GitHub Pages](https://pages.github.com/).
 
